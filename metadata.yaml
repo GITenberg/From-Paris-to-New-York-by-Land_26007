@@ -1,0 +1,30 @@
+_repo: From-Paris-to-New-York-by-Land_26007
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Windt, Harry
+    alias: Windt, Harry de
+    birthdate: 1856
+    deathdate: 1933
+    gutenberg_agent_id: '3779'
+    url: http://www.gutenberg.org/2009/agents/3779
+    wikipedia: http://en.wikipedia.org/wiki/Harry_de_Windt
+description: Journalist's journey via Bering Strait, 1901-02.
+gutenberg_issued: '2008-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Siberia (Russia) -- Description and travel'
+- !lcsh 'Alaska -- Description and travel'
+- !lcsh 'Voyages and travels'
+- !lcc 'G'
+title: From Paris to New York by Land
+url: http://www.gutenberg.org/ebooks/26007
