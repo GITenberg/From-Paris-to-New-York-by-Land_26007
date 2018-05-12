@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3779
     wikipedia: http://en.wikipedia.org/wiki/Harry_de_Windt
 description: Journalist's journey via Bering Strait, 1901-02.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26007#From-Paris-to-New-York-by-Land
 gutenberg_issued: '2008-07-08'
 gutenberg_type: Text
 identifiers:
